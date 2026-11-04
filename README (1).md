@@ -148,6 +148,3 @@ The model is retrained whenever a CSV file is uploaded; the application does not
 - Separate training, preprocessing, and prediction logic into reusable modules.
 - Add tests and clearer error messages for invalid datasets.
 
-## License
-
-Add the applicable license and attribution details before distributing this project.
